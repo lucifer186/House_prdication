@@ -29,3 +29,5 @@ The predicted house price is displayed on the same page after submitting the for
 ![empty_form](https://github.com/user-attachments/assets/6812a31c-9a69-4328-8d6a-70f38b1f2ba3)
 ![predicate_price](https://github.com/user-attachments/assets/d5eca185-8e69-4385-a376-59c333aab09f)
 
+# Test file
+I used `house_data.csv` file to train the model and provide in the github repo.
