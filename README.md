@@ -26,3 +26,6 @@ This is a simple Flask web application to predict house prices based on input fe
 The predicted house price is displayed on the same page after submitting the form.
 
 # Snapshots
+![empty_form](https://github.com/user-attachments/assets/6812a31c-9a69-4328-8d6a-70f38b1f2ba3)
+![predicate_price](https://github.com/user-attachments/assets/d5eca185-8e69-4385-a376-59c333aab09f)
+
